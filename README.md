@@ -1,3 +1,9 @@
+Оригинальный репозиторий inlong(TubeMQ)   
+https://github.com/apache/incubator-inlong   
+
+Реверс инжиниринг : Inlong (TubeMQ)  
+https://drive.google.com/drive/folders/10SaF8LEuIRucxa1xiWRV5_fxsV8HU68s
+
 <!--
 
     Licensed to the Apache Software Foundation (ASF) under one
